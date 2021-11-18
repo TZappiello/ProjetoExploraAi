@@ -1,0 +1,82 @@
+body {
+    display: flex;
+    align-items: center;
+  }
+  
+  :root{
+    --color1: #FBFCD0;
+  }
+  
+  .h1Title {
+    text-align: center;
+    font-size: 55px;
+    font-family: 'Libre Baskerville';
+    font-weight: 999;
+    text-shadow: black 2px 2px;
+    background-color: rgb(251, 252, 208, 0.3);
+    color: #1A9947;
+    border-radius: 20%;
+    border: groove;
+    border-color: #1A9947;
+    margin-top: 10%;
+}
+
+  
+  .form-signin {
+    width: 100%;
+    max-width: 25%;
+    padding: 6% 0% 0% 0%  ; 
+    margin: auto;
+  }
+  
+  .form-signin .checkbox {
+    font-weight: 500;
+    text-align: center;
+  }
+  
+  .form-signin .form-floating:focus-within {
+    z-index: 2;
+  }
+  
+  .form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-radius: 20px;
+    opacity: 0.8;
+  }
+  
+  .form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-radius: 20px;
+    opacity: 0.8;
+  }
+  
+  p{
+    margin-top: 8%;
+    text-align: center;
+    color: #FBFCD0;
+    text-shadow: black 2px 2px;
+  }
+  
+  .fw-normal{
+    text-align: center;
+    font-weight: 1000;
+    color: #FBFCD0;
+    font-size: 36px;
+    text-shadow: black 3px 3px;
+  }
+  
+  .signIn{
+    border-radius: 20px;
+    color: #FBFCD0;
+  }
+  
+  .remember{
+    color: #1C1F23;
+    font-weight: 1000;
+    text-shadow: #FBFCD0 1px 1px;
+  }
+  
