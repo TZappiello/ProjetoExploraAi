@@ -71,13 +71,20 @@ h2{
 	color: #D5FFB6;
 }
 
-#conteudo img{
+
+#conteudo  img{
 	border-radius: 15px;
+	width: 600px;
+	height: 700px;
 	border: solid;
-	border-color: black;
+	border-color: rgb(0, 0, 0);
 }
 
-#carouselExampleCaptions{
+#conteudo {
+	margin-bottom: 25px;
+}
+
+#carouselExampleIndicators{
 	width: 100%;
 	height: 90%;
 } 
