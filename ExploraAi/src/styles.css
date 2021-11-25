@@ -2,4 +2,9 @@ body{
     background-image: url("../src/assets/images/fuunfo.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-}
+}@import '~@fortawesome/fontawesome-free/scss/fontawesome.scss';
+@import '~@fortawesome/fontawesome-free/scss/solid.scss';
+@import '~@fortawesome/fontawesome-free/scss/regular.scss';
+@import '~@fortawesome/fontawesome-free/scss/brands.scss';
+ 
+@import '~mdb-angular-ui-kit/assets/scss/mdb.scss';

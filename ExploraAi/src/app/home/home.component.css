@@ -1,9 +1,9 @@
 footer{
-	margin: 0% 10%;
-	width: 80%;
 	border-radius: 15px;
-	border: solid;
-	border-color: black;
+}
+
+#button {
+	margin-left: 20px;;
 }
 
 h2{
@@ -94,4 +94,10 @@ h2{
 	cursor: pointer;
 	font-size: 20px;
 	padding-right: 10px;
+}
+
+#redes {
+	width: 35px;
+	margin-right: 20px;;
+	border-radius: 50%;
 }
